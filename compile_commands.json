@@ -1,0 +1,8 @@
+[
+    {
+        "directory": "\"F:/Codes/SimpleGeometry\"",
+        "command": "C:/mingw64/bin/g++.exe C:/mingw64/bin/gcc.exe -std=c++20 -Iinclude -I\"F:/Codes/conan_data/p/b/fmt42aa6429b5a16/p/include\" -I\"F:/Codes/conan_data/p/b/glfwe64daab29dfac/p/include\" -I\"F:/Codes/conan_data/p/b/gladd6a38c4c4e255/p/include\" -I\"F:/Codes/conan_data/p/imgui6d92dd284f976/s/src\" -I\"F:/Codes/conan_data/p/imgui6d92dd284f976/s/src/backends\" --target=x86_64-w64-mingw32",
+        "file": "\"F:/Codes/SimpleGeometry/src/*.cpp\" \"F:/Codes/SimpleGeometry/includes/*.h\"", 
+        "output": ""
+    }
+]
